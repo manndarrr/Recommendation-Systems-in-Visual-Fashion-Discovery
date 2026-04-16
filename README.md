@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Visual Fashion Discovery Engine</h1>
+  <h1>Visual Fashion Discovery</h1>
   <p><strong>Neural Style Recommendation | Multi-Modal Discovery | Aesthetic Mapping</strong></p>
 </div>
 
