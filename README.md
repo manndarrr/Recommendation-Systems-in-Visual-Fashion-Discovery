@@ -31,7 +31,7 @@ This project leverages **Neural Networks** to interpret the subtle language of a
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 The system follows a sophisticated pipeline to transform raw inputs into ranked recommendations[cite: 368]:
 
 1.  **Data Collection:** Captures real-time user signals and context[cite: 369].
@@ -42,7 +42,7 @@ The system follows a sophisticated pipeline to transform raw inputs into ranked 
 
 ---
 
-## 📊 Core Strategies
+## Core Strategies
 * **Content-Based Filtering:** Recommends items similar to a user's previous interactions[cite: 316, 317].
 * **Collaborative Filtering:** Identifies "digital twins" with similar tastes to leverage the "wisdom of the crowd"[cite: 319, 320].
 * **Hybrid Models:** Blends both approaches to mitigate individual weaknesses and enhance user experience[cite: 322, 324].
@@ -56,7 +56,7 @@ The system follows a sophisticated pipeline to transform raw inputs into ranked 
 
 ---
 
-## ⚖️ Future Scope
+## Future Scope
 * **Advanced Contextual Awareness:** Integrating location and real-time activity[cite: 373].
 * **Ethical AI:** Prioritizing fairness and diversity to combat "filter bubbles"[cite: 372, 374].
 * **Explainable AI:** Showing users *why* an item was suggested (e.g., matching palette or silhouette)[cite: 375].
