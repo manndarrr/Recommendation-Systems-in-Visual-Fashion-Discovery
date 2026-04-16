@@ -137,8 +137,8 @@ The system follows a sophisticated pipeline to transform raw inputs into ranked 
 
 ### Visual Search
 <p align="center">
-  <img src="Overview/VisualSearch.png" width="850" title="Fashion Discovery Flow"> <br>
-  ### Output:
+  <img src="Overview/VisualSearch.png" width="850" title="Fashion Discovery Flow"> <br> <br>
+  **Output:** <br>
   <img src="Overview/VisualSearchResult.png" width="850" title="Fashion Discovery Flow">
 </p>
 
