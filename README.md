@@ -81,49 +81,56 @@ The system follows a sophisticated pipeline to transform raw inputs into ranked 
 
 ### Discover Casuals
 <p align="center">
-  <img src="Overview/Casuals.png" width="850" title="Fashion Discovery Flow">
-</p>
-
----
-
-### Discover Blazers
-<p align="center">
-  <img src="Overview/Blazers.png" width="850" title="Fashion Discovery Flow">
-</p>
-
----
-
-### Discover Suits
-<p align="center">
-  <img src="Overview/Suits.png" width="850" title="Fashion Discovery Flow">
+  <img src="Overview/Discover-Casuals.png" width="850" title="Fashion Discovery Flow">
 </p>
 
 ---
 
 ### Discover Outerwears
 <p align="center">
-  <img src="Overview/Outerwears.png" width="850" title="Fashion Discovery Flow">
+  <img src="Overview/Discover-Outerwears.png" width="850" title="Fashion Discovery Flow">
+</p>
+
+---
+
+### Discover Blazers
+<p align="center">
+  <img src="Overview/Discover-Blazers.png" width="850" title="Fashion Discovery Flow">
+</p>
+
+---
+
+### Discover Suits
+<p align="center">
+  <img src="Overview/Discover-Suits.png" width="850" title="Fashion Discovery Flow">
 </p>
 
 ---
 
 ### Discover Footwears
 <p align="center">
-  <img src="Overview/Shoes.png" width="850" title="Fashion Discovery Flow">
+  <img src="Overview/Discover-Shoes.png" width="850" title="Fashion Discovery Flow">
 </p>
 
 ---
 
 ### Discover Accessories
 <p align="center">
-  <img src="Overview/Accessories.png" width="850" title="Fashion Discovery Flow">
+  <img src="Overview/Discover-Accessories.png" width="850" title="Fashion Discovery Flow">
 </p>
 
 ---
 
 ### Discover Watches
 <p align="center">
-  <img src="Overview/Watches.png" width="850" title="Fashion Discovery Flow">
+  <img src="Overview/Discover-Watches.png" width="850" title="Fashion Discovery Flow">
+</p>
+
+---
+
+### User Discovery
+<p align="center">
+  <img src="Overview/User-Discover.jpeg" width="850" title="Fashion Discovery Flow">
 </p>
 
 ---
