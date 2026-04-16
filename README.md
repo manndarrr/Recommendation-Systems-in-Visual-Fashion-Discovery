@@ -128,7 +128,7 @@ The system follows a sophisticated pipeline to transform raw inputs into ranked 
 
 ---
 
-### User Discovery
+### Hybrid Recommendations
 <p align="center">
   <img src="Overview/User-Discover.jpeg" width="850" title="Fashion Discovery Flow">
 </p>
